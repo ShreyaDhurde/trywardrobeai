@@ -1,0 +1,2 @@
+1.aiagent.py - {w}
+2.aiagentv1.py - shit - goal to give the final 

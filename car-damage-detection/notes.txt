@@ -1,0 +1,38 @@
+1.comp.py= {w} displays two images (aim : to built a streamlit To build a streamlet application such that it
+ takes the image of a car before accident and later on it takes the image of the car
+  after accident and using gemini api we are able to 
+see whether the both cars are same or not)
+2.comptemp.py={nw} aim to built gemini 
+3.gemimg.py ={w} to check whehter this image can be read/analyse 
+4.gem.py={} to  make two img analyse 
+5.mulimg.py= works partially .
+6.insuarance-claim2.py = sir code for one image . 
+7.ins.py ={w}  works perfectly and streamlit code .
+8.Pyfunins.py = {w} a python function that is compatilble with plain python and takes input output in terminal  . 
+9.inscarfun.py = {} make a python code which can validate where the given images while be accepted for 
+              you a expert in insuarance company to approve the accident insuarance claim   
+
+
+You are an expert in reading and analyzing damaged vehicle images for approving insurance claims.
+               You will receive multiple input images of the car. Your task is to analyze the images and provide details
+               on whether all the images belong to the same vehicle and indicate the similarity percentage in images .
+               and explain the damaged vehicles damages and the parts that are damages . 
+               give the license number plate , model , type of vehicle , explain level of visible damage or unique features. 
+               check for same colour as well . all the pictures must belong the same vehicle before and after or in any time line . 
+               at the end give the reason whether the claim should be approved or not .
+
+
+
+
+
+                As an expert in analyzing vehicle images for insurance claims, your task is to evaluate
+                 multiple images of a car, potentially taken at different times (before and after an accident).
+                   For each set of images:
+
+Identify Consistency: Determine if all images depict the same vehicle by checking the model, type, color, 
+license plate number, and any unique features. Provide a similarity percentage.
+
+Analyze Damage: Identify and describe any visible damages, including the affected parts and the severity of the damage.
+
+Assess Claim Validity: Based on the analysis, decide if the claim should be approved or denied,
+ considering the consistency of the images and the damage details and make sure all images have number plate .
